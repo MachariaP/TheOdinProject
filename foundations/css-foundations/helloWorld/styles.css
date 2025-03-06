@@ -1,15 +1,11 @@
-title {
-    color: red;
-    font-size: 30px;
-    font-family: Arial, sans-serif;
-}
-
+/* This is a CSS comment */
 h1 {
     color: red;
     font-size: 40px;
     font-family: Arial, sans-serif;
 }
 
+/* This is another CSS comment */
 p {
     color: blue;
     font-size: 20px;

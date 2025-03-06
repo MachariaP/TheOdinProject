@@ -7,7 +7,8 @@ h1 {
     padding: 10px;
     border: 3px solid red;
     color:tomato;
-    font-weight: 100px;
+    font-size: 50px;
+    font-family: Impact;
  
 }
  
@@ -15,16 +16,21 @@ h1 {
 h2 {
     padding: 10px;
     background-color: #f60;
-    font: 30px Arial;
-    text: blue;
+    font: 30px;
+    font-family: Helvetica;
+    color: #ffff99;
  
 }
  
 ol {
+    background-color: #ffcc00;
  
 }
  
 li {
+    padding: 10px;
+    font-family: Courier New;
+    color: #ffff99;
  
 }
  

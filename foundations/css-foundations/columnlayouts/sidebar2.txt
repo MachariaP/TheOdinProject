@@ -1,0 +1,11 @@
+<h2>Retro Consoles </h2>
+<ul>
+    <li>Atari 2600</li>
+    <li>Nintendo NES</li>
+    <li>Sega Genesis</li>
+    <li>Super Nintendo</li>
+    <li>Neo Geo</li>
+    <li>TurboGrafx-16</li>
+</ul>
+<p>The consoles of the past were engineering marvels. The NES brought us Mario and Zelda, while Sega’s Genesis roared with Sonic’s speed. Each had its own flavor, fueling fierce debates among fans.</p>
+<p>Today, these machines are collector’s gold. A working Neo Geo can fetch hundreds, and even beat-up Ataris find new homes. They’re not just hardware—they’re time capsules of gaming’s roots.</p>
